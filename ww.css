@@ -1,0 +1,183 @@
+html{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.first{
+    background-color:rgb(236, 234, 234);
+    padding: 10px;
+    margin: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+h1{
+    color: rgb(14, 13, 13);
+    text-align: center;
+}
+#head{
+    background-color: rgb(228, 182, 212);
+    padding: 10px;
+    margin: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.section{
+    background-color: rgb(216, 214, 214);
+    padding: 20px;
+    margin: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+span{
+    border-radius: 10%;
+    padding: 10px;
+    border: rgb(184, 165, 165) 4px double;
+    font-weight: 100px;
+    color: rgb(5, 2, 2);
+}
+p{
+    font-size: 20px;
+}
+.container{
+    background-color: rgb(253, 235, 235);
+    padding: 30px;
+    margin: 10px;
+    margin-top: 40px;
+    border-radius: 40px;
+
+}
+.img-circle{
+    height: 300px;
+    width: 500px;
+    border: 6px;
+    margin: 10px 300px;
+
+}
+figcaption{
+    margin: 20px 500px;
+}
+video{
+    width: 500px; 
+    height: 300px;
+    margin: 10px 300px;
+    border: 6px;
+}
+.submit{
+    background-color: rgb(194, 192, 192);
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 30px;  
+}
+h2{
+    text-align: center;
+}
+.vid{
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin: 10px 10px;     
+}
+form{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    color:rgb(3, 3, 3);
+}
+a {
+    color: rgb(219, 34, 34);
+    font-size: 20px;
+   
+    
+}
+#footer{
+    background-color: rgb(202, 200, 200);
+    padding: 20px;
+    margin: 10px;
+    margin-top: 10px;
+    border-radius: 30px;
+}
+.copyright{
+    font-size: 15px;
+    text-align: right;
+    padding-bottom: 10px;
+    color: gray;
+}
+h5{
+    
+    color:rgb(17, 16, 16); 
+    text-align: center;
+}
+.iner{
+    background-color: rgb(150, 148, 148);
+    padding: 10px;
+    margin: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    
+}
+
+.third{
+    background-color: rgb(75, 74, 74);
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+   border: 5px solid rgb(10, 10, 10);
+    border-radius: 10px;
+    color: rgb(13, 12, 14);
+    width: 20px;
+    height: 120px; 
+    float: left;
+    text-transform: uppercase;
+    
+}
+.zz{
+    clear:both;
+    
+    background-color: rgb(192, 188, 188);
+    margin: 5px ;
+    padding: 20px 0px;
+}
+
+.zz ul li{
+    list-style: none;
+    box-sizing:border-box;
+    margin: 10px;
+  
+}
+.zz ul li .part{
+width: 200px;
+height: 50px;
+text-align: center;
+box-sizing: border-box;
+border: 20px black;
+margin: 5px 20px 0px 10px;
+background-color: rgb(85, 84, 87);
+}
+#special{
+    background-color: rgb(214, 107, 191);
+}
+#title{
+    background: rgb(214, 107, 191);
+}
+.tty{
+    background-color:rgb(236, 234, 234);
+    padding: 10px;
+    margin: 10px;
+    
+    margin-top: 30px;
+    border-radius: 5px;
+    text-align: center;
+    clear: both;
+}
